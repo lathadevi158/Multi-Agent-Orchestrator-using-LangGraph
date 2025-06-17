@@ -38,6 +38,8 @@ An intelligent, agentic workflow built using **LangGraph**, featuring dynamic qu
 
 This project demonstrates a basic agentic workflow using LangGraph and is intended primarily for learning and showcasing how query routing and modular agent design works in a LangChain ecosystem. It serves as a foundational example that can be easily extended with advanced tools like memory, vector databases (e.g., FAISS, Chroma, Azure Cosmos DB), external APIs, or dynamic tool-based agents. While it is minimal by design, the structure is scalable and serves as a great starting point for building more sophisticated, production-ready AI assistants.
 
+---
+
 📄 **License**  
 This project is licensed under the MIT License.
 
